@@ -2,6 +2,11 @@
   "name": "counterapp",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sthciN/Snapp"
+  },
+  "author": "Atefeh Pahlevan",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
